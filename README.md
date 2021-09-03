@@ -1,3 +1,3 @@
 # discord-always-online
 
-https://alifurkan.org
+- [alifurkan.org](https://alifurkan.org)
